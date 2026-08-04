@@ -9,3 +9,10 @@
 </p>
 
 -------------------------------------------------------
+
+
+
+
+🤝 Connect with me
+<p align="center"> <a href="https://www.linkedin.com/in/athirapk/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:athira.pk0211@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="center"><i>⭐️ From <a href="https://github.com/Athirapk96">Athirapk96</a> — thanks for stopping by!</i></p>
