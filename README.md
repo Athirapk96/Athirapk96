@@ -10,6 +10,14 @@
 
 -------------------------------------------------------
 
+## 👋 About Me
+
+- 💼 Junior AI Developer
+- 🤖 Passionate about building AI-powered applications
+- 🌱 Learning **LLMs, Generative AI, Agentic AI, and RAG**
+- 🎓 PG Diploma in Data Science
+- 📍 Kerala, India
+- 📫 **athira.pk0211@gmail.com**
 
 
 ## 🤝 Connect with Me
