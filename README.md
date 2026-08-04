@@ -12,7 +12,19 @@
 
 
 
+## 🤝 Connect with Me
 
-🤝 Connect with me
-<p align="center"> <a href="https://www.linkedin.com/in/athirapk/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:athira.pk0211@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-<p align="center"><i>⭐️ From <a href="https://github.com/Athirapk96">Athirapk96</a> — thanks for stopping by!</i></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/athirapk/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:athira.pk0211@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b><br>
+  🚀 <i>Let's build intelligent solutions together.</i>
+</p>
