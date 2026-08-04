@@ -1,5 +1,8 @@
 -------------------------------------------------------
-                     AI Banner
+  
+  <p align="center">
+  <img src="https://github.com/Athirapk96/Athirapk96/blob/main/0c76b845-cdb8-41c5-ba03-34d8e63fe8e9.png" width="100%">
+</p>
 -------------------------------------------------------
 
 👋 Hi, I'm Athira P K
