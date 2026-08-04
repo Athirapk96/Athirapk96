@@ -10,12 +10,18 @@
 
 -------------------------------------------------------
 
-## 🛠️ Tech Stack
+## 📊 GitHub Stats
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Athirapk96&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athirapk96&layout=compact&theme=tokyonight"/>
+</p>
+
+
+
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+📧 Email: your_email@gmail.com
