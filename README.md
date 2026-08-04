@@ -1,16 +1,35 @@
-## Hi there 👋
+-------------------------------------------------------
+                     AI Banner
+-------------------------------------------------------
 
-<!--
-**Athirapk96/Athirapk96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Athira P K
 
-Here are some ideas to get you started:
+AI Developer | Machine Learning Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Kerala, India
+
+🎓 PG Diploma in Data Science
+
+🚀 Passionate about
+• Generative AI
+• LLMs
+• Computer Vision
+• NLP
+• RAG Systems
+
+🛠 Tech Stack
+Python | TensorFlow | PyTorch | LangChain | Flask
+FAISS | OpenCV | Git | SQL
+
+📊 GitHub Stats
+
+🔥 Featured Projects
+
+⭐ Crowd Surveillance
+⭐ BNS RAG Chatbot
+⭐ Automated Review Rating System
+⭐ Leaf Disease Detection
+⭐ Multilabel Image Classification
+
+📫 Connect with me
+LinkedIn • Email
