@@ -10,32 +10,12 @@
 
 -------------------------------------------------------
 
-AI Developer | Machine Learning Engineer
+## 🛠️ Tech Stack
 
-📍 Kerala, India
-
-🎓 PG Diploma in Data Science
-
-🚀 Passionate about
-• Generative AI
-• LLMs
-• Computer Vision
-• NLP
-• RAG Systems
-
-🛠 Tech Stack
-Python | TensorFlow | PyTorch | LangChain | Flask
-FAISS | OpenCV | Git | SQL
-
-📊 GitHub Stats
-
-🔥 Featured Projects
-
-⭐ Crowd Surveillance
-⭐ BNS RAG Chatbot
-⭐ Automated Review Rating System
-⭐ Leaf Disease Detection
-⭐ Multilabel Image Classification
-
-📫 Connect with me
-LinkedIn • Email
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
